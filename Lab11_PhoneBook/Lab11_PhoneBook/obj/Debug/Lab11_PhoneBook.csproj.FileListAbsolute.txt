@@ -1,0 +1,25 @@
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\bin\Debug\Lab11_PhoneBook.exe.config
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\bin\Debug\Lab11_PhoneBook.exe
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\bin\Debug\Lab11_PhoneBook.pdb
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.csprojAssemblyReference.cache
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.AddItemForm.resources
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.EditItem.resources
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.Form1.resources
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.Properties.Resources.resources
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.csproj.GenerateResource.cache
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.csproj.CoreCompileInputs.cache
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.exe
+E:\Workflow\7\СТП\stp\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.pdb
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.csprojAssemblyReference.cache
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.Properties.Resources.resources
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.csproj.GenerateResource.cache
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.csproj.CoreCompileInputs.cache
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.exe
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\Lab11_PhoneBook.pdb
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\bin\Debug\Lab11_PhoneBook.exe.config
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\bin\Debug\Lab11_PhoneBook.exe
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\bin\Debug\Lab11_PhoneBook.pdb
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\PhoneBook.AddItemForm.resources
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\PhoneBook.EditItem.resources
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\ЛЮБИМЫЙ УНИВЕР\4 КУРС 1 СЕМАК\СТП\Lab11_PhoneBook\Lab11_PhoneBook\bin\Debug\PhoneBook.txt
